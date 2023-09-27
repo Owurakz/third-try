@@ -1,0 +1,64 @@
+.my-nav {
+  background-color: #860d20 !important;
+  padding-top: 0px;
+}
+
+.navbar-light .navbar-nav .my-link {
+  color: rgb(243, 239, 239);
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.navbar-light .navbar-brand:hover,
+.navbar-light .navbar-brand:focus {
+  color: rgb(11, 11, 11);
+}
+.navbar-light .my-brand {
+  color: rgb(233, 228, 228);
+  font-weight: bold;
+}
+
+.carousel-img {
+  height: 550px;
+}
+
+.aboutsection {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.pizzaman {
+  height: 200px;
+  width: 100%;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.pizzasec {
+  margin-bottom: 10px;
+}
+
+.card img {
+  max-width: 100%;
+}
+
+.card h1 {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+
+.card-text {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.footer {
+  background-color: #860d20;
+  padding-top: 10px;
+  color: white;
+  margin: 0px;
+}
